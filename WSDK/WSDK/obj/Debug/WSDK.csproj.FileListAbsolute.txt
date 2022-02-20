@@ -1,0 +1,11 @@
+C:\Users\ZAMASSU\source\repos\WSDK\WSDK\bin\Debug\WSDK.exe.config
+C:\Users\ZAMASSU\source\repos\WSDK\WSDK\bin\Debug\WSDK.exe
+C:\Users\ZAMASSU\source\repos\WSDK\WSDK\bin\Debug\WSDK.pdb
+C:\Users\ZAMASSU\source\repos\WSDK\WSDK\obj\Debug\WSDK.csproj.SuggestedBindingRedirects.cache
+C:\Users\ZAMASSU\source\repos\WSDK\WSDK\obj\Debug\WSDK.Form1.resources
+C:\Users\ZAMASSU\source\repos\WSDK\WSDK\obj\Debug\WSDK.Form2.resources
+C:\Users\ZAMASSU\source\repos\WSDK\WSDK\obj\Debug\WSDK.Properties.Resources.resources
+C:\Users\ZAMASSU\source\repos\WSDK\WSDK\obj\Debug\WSDK.csproj.GenerateResource.cache
+C:\Users\ZAMASSU\source\repos\WSDK\WSDK\obj\Debug\WSDK.csproj.CoreCompileInputs.cache
+C:\Users\ZAMASSU\source\repos\WSDK\WSDK\obj\Debug\WSDK.exe
+C:\Users\ZAMASSU\source\repos\WSDK\WSDK\obj\Debug\WSDK.pdb
